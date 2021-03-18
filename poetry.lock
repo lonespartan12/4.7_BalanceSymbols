@@ -1,0 +1,17 @@
+[[package]]
+category = "main"
+description = "Data structures package for Problem Solving with Algorithms and Data Structures using Python"
+name = "pythonds"
+optional = false
+python-versions = "*"
+version = "1.2.1"
+
+[metadata]
+content-hash = "79aefff0ab93d32a9720980d4df7b9b971aa339f2eaec7e31d834e8f1b964d1e"
+python-versions = "^3.8"
+
+[metadata.files]
+pythonds = [
+    {file = "pythonds-1.2.1-py3-none-any.whl", hash = "sha256:623fd83857ff97718b248d01c333d30d4649ebc7b4fdc795b4357d74003e890f"},
+    {file = "pythonds-1.2.1.tar.gz", hash = "sha256:69189b559f006699d08bcbb43f78201b0c16ec2a400516165b5be88a39594373"},
+]
